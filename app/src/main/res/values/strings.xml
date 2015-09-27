@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bnrgGeoQuiz</string>
+
+    <string name="action_settings">Settings</string>
+    <!--Book warns us not to change the menu_settings string, because bad joojoo.-->
+    <!--This has a different name, maybe they fixed that issue..-->
+    <string name="next_button">Next</string>
+
+
+
+    <string name="q1">How has this area of your life been the past few weeks?</string>
+    <string name="q2">What contributing factors to this are controllable?</string>
+    <string name="q3">What\'s a strategy you could use to improve this area?</string>
+    <string name="q4">What\'s a method you could use to help yourself stay on track and carry out your plan?</string>
+    <string name="q5">When are you going to begin?</string>
+
+</resources>
